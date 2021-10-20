@@ -1,0 +1,12 @@
+
+<resources>
+    <string name="app_name">KalkulatorSederhana</string>
+    <string name="luas_alas_diameter">luas/alas/diameter</string>
+    <string name="segitiga">Segitiga</string>
+    <string name="lebar_tinggi">lebar/tinggi</string>
+    <string name="persegi">Persegi</string>
+    <string name="lingkaran">Lingkaran</string>
+    <string name="luas">Luas :</string>
+    <string name="keliling">Keliling :</string>
+    <string name="_0">0</string>
+</resources>
